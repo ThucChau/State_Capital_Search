@@ -1,0 +1,6 @@
+#wrapper {
+    background: url(https://images.pexels.com/photos/1837591/pexels-photo-1837591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    overflow: auto;
+}
